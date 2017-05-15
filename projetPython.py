@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import os
-os.chdir('/home/karim/Documents/malek/mooc-python/projet')
+os.chdir('/home/Documents/malek/mooc-python/projet')
 import pandas as pd 
 import numpy as np
 import random
